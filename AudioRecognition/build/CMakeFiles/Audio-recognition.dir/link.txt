@@ -1,0 +1,1 @@
+aarch64-linux-gnu-g++ CMakeFiles/Audio-recognition.dir/Audio-recognition.cpp.o -o Audio-recognition  -Wl,-rpath,/usr/lib/aarch64-linux-gnu /usr/local/lib/libtensorflow-lite.a /usr/lib/aarch64-linux-gnu/libdl.so /usr/lib/aarch64-linux-gnu/libpthread.so /usr/lib/aarch64-linux-gnu/libsndfile.so 

@@ -1,0 +1,1 @@
+This program predicts the sound in the audio file on the RB1 device, mainly using tensorflow lite, YAMNet's tflite format model, and YAMNet's official csv tag file. It Audios predict all the audio files in the directory, and then each audio file forecast probability of the top 10 voice print to the terminal including the serial number, label, and the probability value.

@@ -1,0 +1,3 @@
+/home/thundersoft/dev_C++/RB1-Audio-recognition/Audio-recognition/build/CMakeFiles/edit_cache.dir
+/home/thundersoft/dev_C++/RB1-Audio-recognition/Audio-recognition/build/CMakeFiles/rebuild_cache.dir
+/home/thundersoft/dev_C++/RB1-Audio-recognition/Audio-recognition/build/CMakeFiles/Audio-recognition.dir
