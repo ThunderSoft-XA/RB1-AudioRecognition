@@ -68,5 +68,11 @@ cd data/selfie/AudioRecognition/build
 
 
 **result show**
-<img src="./res/audio_list.png" width = "30%" height = "30%" div align=left />
-<img src="./res/result_list.png" width = "30%" height = "30%" div align=left />
+[audio_list.png](./res/audio_list.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div style="display:flex;justify-content:space-between;;margin-top:20px;">
+  <img src="./res/audio_list.png" alt="Image 1" style="width:300px;margin-right:20px;" />
+</div>
+[result_list.png](./res/result_list.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div style="display:flex;justify-content:space-between;margin-top:40px;">
+  <img src="./res/result_list.png" alt="Image 2" style="width:300px;margin-right:20px;" />
+</div>
