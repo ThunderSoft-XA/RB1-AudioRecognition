@@ -9,7 +9,7 @@ set(CMAKE_CXX_COMPILER aarch64-linux-gnu-g++)
 set(TFLITE_LIB_PATH "/usr/local/lib/libtensorflow-lite.a")
 
 # The path of the setting TensorFlow Lite header files
-set(TFLITE_INCLUDE_PATH "/home/thundersoft/dev_C++/tensorflow/" "/home/thundersoft/dev_C++/tensorflow/tensorflow/lite/tools/make/downloads/flatbuffers/include/")
+set(TFLITE_INCLUDE_PATH "../tensorflow/" "../tensorflow/tensorflow/lite/tools/make/downloads/flatbuffers/include/")
 
 set(CMAKE_LIBRARY_PATH /usr/lib/aarch64-linux-gnu)
 
