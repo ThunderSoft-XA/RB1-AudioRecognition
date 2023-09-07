@@ -6,7 +6,7 @@ The project is based on the source code of the QRB2210 development kit system an
 
 I wanted to capture more information about the low-light images. I hope this will help with some future development.
 
-**How does it work?**
+**How does it work?**<br>
 (1)Prepare the Audio to be analyzed and place it in the audios directory on the same level as the audio-recognition executable.<br>
 (2) Place the trained yamnet model file (must be named yamnet.tflite) and the model label file (must be named yamnet_class_map.csv) in the cfg directory on the same level as the Audio-recognition executable.<br>
 (3)Execute the DarkEnhance executable.<br>
