@@ -67,6 +67,6 @@ cd data/selfie/AudioRecognition/build
 ```
 
 
-**result show**</br>
+**result show**
 <img src="./res/audio_list.png" width = "30%" height = "30%" div align=left />
 <img src="./res/result_list.png" width = "30%" height = "30%" div align=left />
