@@ -7,7 +7,7 @@ The project is based on the source code of the QRB2210 development kit system an
 **How does it work?**<br>
 (1)Prepare the Audio to be analyzed and place it in the audios directory on the same level as the audio-recognition executable.<br>
 (2) Place the trained yamnet model file (must be named yamnet.tflite) and the model label file (must be named yamnet_class_map.csv) in the cfg directory on the same level as the Audio-recognition executable.<br>
-(3)Execute the AudioRecognition-demo executable.<br>
+(3)Execute the Audio-recognition-demo executable.<br>
 
 Qualcomm® QRB2210 SoC Open Kits
 
